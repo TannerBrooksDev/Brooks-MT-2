@@ -2,6 +2,8 @@
 
 A modern, responsive website for TechFlow Solutions - a web development company specializing in custom websites for small businesses.
 
+[![Deploy to GitHub Pages](https://github.com/TannerBrooksDev/Brooks-MT-2/actions/workflows/deploy.yml/badge.svg)](https://github.com/TannerBrooksDev/Brooks-MT-2/actions/workflows/deploy.yml)
+
 ## Project Structure
 
 ```
