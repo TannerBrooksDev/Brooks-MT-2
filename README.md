@@ -87,3 +87,8 @@ This project is for educational purposes.
 ---
 
 *Built with ❤️ by the TechFlow Solutions team*
+
+---
+This is step 9 in the assignment
+where I test github pages
+and see it under the actions tab
